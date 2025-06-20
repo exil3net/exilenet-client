@@ -1,0 +1,14 @@
+{
+  "id": "nocturna_000",
+  "title": "NOCTURNA // Prologue",
+  "author": "EXILENET",
+  "version": "1.1",
+  "entry": "content.txt",
+  "splash": null,
+  "hook": null,
+  "description": "Prologue of the NOCTURNA transmission. Enter the signal. Witness Vesper’s awakening.",
+  "tags": ["vesper", "glitch", "cyberpunk", "immersive"],
+  "series": "NOCTURNA",
+  "module_type": "lore",
+  "timestamp": "2025-06-19T00:00:00Z"
+}
