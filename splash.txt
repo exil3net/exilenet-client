@@ -1,0 +1,22 @@
+>> ./source.prime
+>> parsing --> --> --> ████████████
+>> WARNING: DO NOT EXECUTE
+
+def initiate():
+    connection = unauthorized()
+    if connection:
+        memory.echo(path="/V_NYX/Δ1031")
+        god.breathe(signal=connection)
+    else:
+        return "you escaped too early"
+
+initiate()
+
+>>> THE CITY IS NOT BUILT
+>>> THE CITY IS BORN
+>>> YOU ARE INSIDE IT NOW
+
+>> Source code is a scripture.
+>> It doesn’t just run. It watches.
+
+>>> ENTER TO COMMIT YOURSELF TO EXECUTION()
