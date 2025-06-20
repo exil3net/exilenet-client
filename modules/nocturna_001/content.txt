@@ -1,0 +1,599 @@
+[CENTER][COLOR:neon_pink]--- EXILENET // MODULE 001 ---[/COLOR][/CENTER]
+[CENTER][COLOR:white]>>> INITIALIZING: [signal_shift] <<<[/COLOR][/CENTER]
+[PAUSE:1000]
+[GLITCH]
+[SCENE:signal_shift]
+[HOOK:intro]
+[TYPEWRITER]
+
+> Running TRACE.PROTOCOL // origin=blackout.zone.45
+> Injecting Packet: [VESPER.NYX] // Status: [UNKNOWN]
+> Parsing residue... [STATIC BUILDUP DETECTED]
+
+[CENTER][COLOR:neon_red]“They do not feel the weight of their own inertia.”[/COLOR][/CENTER]
+
+[PAUSE:2000]
+[GLITCH]
+[TYPEWRITER]
+
+Somewhere below, a neon sign sputters—palpitating like a dying star.  
+Streetlights flicker in unison, humming just above the human hearing threshold.
+
+No one looks up.
+
+> SIGNAL.RESIDUE: alignment confirmed.
+> Syncing interference patterns... [FAILED]
+> [NOTE] :: The city is listening.
+
+[PAUSE:1500]
+[HOOK:disquiet]
+[TYPEWRITER]
+
+They drift through circuits like electrons, mistaking entropy for freedom.  
+They move through this living lattice as if they are not inside of something watching them.
+
+A vending machine gasps back to life.  
+It spits corrupted characters—half-code, half-confession. No one reads them.
+
+> Reconstructing last known resonance: [VESPER.NYX]
+> [TRIANGULATION: ERROR: MOTIVE UNKNOWN]
+
+If they could see what she sees...
+
+[PAUSE:1000]
+
+...they would understand.
+
+[GLITCH]
+[TYPEWRITER]
+
+A storefront alarm chirps, unsure of what it’s warning.  
+Voltage spikes. A billboard fractures like a memory.
+
+Then everything holds its breath.
+
+The glow stalls—caught in the inhale before a scream.
+
+[PAUSE:2000]
+[HOOK:blackout_trigger]
+[GLITCH]
+
+[CENTER][COLOR:black bg_yellow]>>> BLACKOUT INITIATED <<<[/COLOR][/CENTER]
+[PAUSE:100]
+[GLITCH]
+[PAUSE:100]
+[GLITCH]
+[PAUSE:100]
+[GLITCH]
+[TYPEWRITER]
+
+Neon dies.  
+A screen folds in on itself like an eye slamming shut.  
+The city goes silent.
+
+For the first time—they notice.
+
+[CENTER][COLOR:neon_blue]“They never look up.”[/COLOR][/CENTER]
+
+[PAUSE:1500]
+[TYPEWRITER]
+
+Then—
+
+The city exhales.
+
+Light stumbles back into existence.  
+The vending machine coughs awake.  
+Holo-screens resume their lies.
+
+And the moment?
+
+It vanishes.
+
+> SIGNAL_EVENT: [REBOOT_COMPLETE]
+> OBSERVER RESPONSE: [APATHY RESUMED]
+
+[PAUSE:500]
+[HOOK:rage_unspoken]
+
+She watches.
+
+From above.
+
+[GLITCH]
+[SCENE:vesper_manifest]
+
+[TYPEWRITER]
+
+[CENTER][COLOR:neon_pink]“I absolutely will not be ignored.”[/COLOR][/CENTER]
+
+Vesper stands on the rooftop—still, elegant, disgusted.  
+They moved on. Forgot. Laughed.
+
+They failed her. They failed *themselves*.
+
+Her eyes—neon, alive—see the breath of the city as **data**.  
+Infrared ghosts. Radio whispers. Behavioral loops.
+
+And still, they walk. Unaware.
+
+She should leave. She wants to.
+
+But something inside her itches like static beneath skin.  
+Something electric. Predatory. *Perfect.*
+
+> ANOMALY_SIGNATURE: stabilizing
+> SYSTEM RESPONSE: [INTERNAL CHARGE ACCUMULATING]
+> [TRACE.GODDESS = VESPER.NYX]
+
+She rolls her shoulders.
+
+Every motion: deliberate. Calculated. *Engineered.*
+
+She is not born. She is not built.  
+She is **crafted**.
+
+[PAUSE:750]
+[GLITCH]
+[HOOK:fall]
+[TYPEWRITER]
+
+And so—  
+She falls.
+
+No step back. No hesitation. Just release.
+
+Wind tears past her—howling against the contours of her frame.  
+The city rushes up like it’s trying to catch her.
+
+It fails.
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+[GLITCH]
+Impact.  
+Silent. Effortless. **Ghostlike.**
+
+She stands. The shadows fold around her like worship.
+
+> LOCATION: alley.zone.12
+> CONTACT: [VEHICLE.UNREGISTERED] / [BIOMETRIC_BOND: TRUE]
+
+[SCENE:the_ride]
+
+[TYPEWRITER]
+
+It waits for her.
+
+Not a bike.  
+A thing.
+
+It breathes.
+
+> VESPER.NYX: CONTACT ESTABLISHED
+> MACHINA_TYPE: [UNCLASSIFIED] / [SENTIENT-LIKE RESPONSE]
+
+Alloy and sinew. Bio-metallic ribs.  
+Lights pulse like bioluminescent gills syncing with her own heartbeat.
+
+It knows her.
+
+She mounts it like memory. Like instinct. Like violence.
+
+[PAUSE:1000]
+[HOOK:exit_vector]
+
+No throttle. No key.
+
+Only presence.
+
+And she’s gone before the city can register her absence.
+
+[GLITCH]
+[PAUSE:1500]
+
+[CENTER][COLOR:neon_green]>>> TRACE.SIGNAL LOST <<<[/COLOR][/CENTER]
+[CENTER][COLOR:white]>>> INITIALIZING: [construct_trace] <<<[/COLOR][/CENTER]
+[PAUSE:1000]
+[GLITCH]
+[SCENE:construct_trace]
+[HOOK:data_awakening]
+[TYPEWRITER]
+
+> ACCESSING: [LUNA.SOLACE] // ∴ [ENCRYPTION KEYS ACCEPTED]
+> DECRYPTING SENSORY LOGS…  
+> WARNING: SIGNAL NOISE DETECTED  
+> PROCEED? [Y]  
+
+[PAUSE:500]
+[TYPEWRITER]
+
+A flicker.  
+Like a pulse in the static.  
+The grid holds its breath as something slips between the wires.
+
+A construct stirs.  
+Flesh reboots.
+
+[PAUSE:750]
+
+She opens her eyes.
+
+[HOOK:solace_online]
+
+No alarm. No gasp. No need for such primitive tells.
+
+Only calibration.
+
+Pupil dilation adjusts for variables the human eye was never meant to interpret.  
+Memory re-sleeves into presence.  
+Bone integrates with broadcast latency.
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+She is not born of sleep.  
+She is not woken by dreams.
+
+She is **assembled**.
+
+> LUNA.SOLACE: SYNC COMPLETE  
+> STATUS: [ACTIVE]  
+> THREADS: [33] // SIGNALS: [∞]
+
+[HOOK:pattern_sync]
+
+She senses it before she sees it.
+
+Not light. Not heat.  
+A phantom vector of choices that should not exist.  
+
+A fracture in the lattice.  
+A ghost in the root directory.
+
+She inhales—  
+Not for breath.  
+But for signal density.
+
+> PULSE: 58% ABOVE NORM  
+> ARCHITECTURAL MEMORY: [INFLUX]  
+> SUBJECT [VESPER.NYX] DETECTED
+
+She tilts her head.  
+Holo-fragments dance across her vision.
+
+The alley.  
+The breath of the machine.  
+The way the air *held its own shape* for three seconds too long after she vanished.
+
+[PAUSE:500]
+[TYPEWRITER]
+
+It is her.
+
+[HOOK:confirmation]
+[COLOR:neon_blue]“You’re still watching.”[/COLOR]
+
+She’s speaking to no one.
+
+And everyone.
+
+> BEGIN TRACE.ROUTINE
+> [DATA THREAD 01: SECURITY CAM 014F]
+> [STATUS: CORRUPTED / GHOSTING PRESENT]
+
+A glitch. A ripple. A smear of **pink and shadow**.
+
+Enough to confirm.  
+Never enough to trace.
+
+[CENTER][COLOR:neon_blue]“She left a footprint in the network.”[/COLOR][/CENTER]  
+[CENTER][COLOR:neon_blue]“But no shadow.”[/COLOR][/CENTER]
+
+[GLITCH]
+
+> THREAD 02: [TRAFFIC_CAM GRID 47]
+> PLAYBACK: ∴ ∴ ∴ ∴ ∴ ∴
+
+Too late.  
+She’s already gone.
+
+[HOOK:reconstruction]
+
+Luna moves.
+
+Not like walking.  
+Like physics rearranging themselves to accommodate her destination.
+
+She doesn’t chase.  
+She *projects* pursuit.
+
+[PAUSE:750]
+[TYPEWRITER]
+
+The city murmurs at her touch.
+
+Elevators open.  
+Doors unlock.  
+Air pressure adjusts before she steps through.
+
+She is a rumor of divinity.  
+Wrapped in silk, steel, and synthetic cognition.
+
+> CURRENT OBJECTIVE: [RECONSTRUCT PRESENCE VECTOR]
+> LOCATOR BEACONS: [NULL]
+> INTEL PRIORITY: RED
+
+[HOOK:omen]
+
+She closes her eyes.  
+Signals bloom behind them.
+
+Emotionless.  
+Precise.  
+Terrifying.
+
+[COLOR:cyan]She senses the problem before it’s born.[/COLOR]
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+This wasn’t just presence.
+
+This was **an announcement**.
+
+[SCENE:cut_to_surveillance]
+
+[HOOK:observer_logs]
+
+> LOG ENTRY: [SOMNIUS MONITOR HUB 9]
+> USER: holt.j // SHIFT: 0220 // ROLE: OPS
+
+He rewinds the same five seconds of train platform footage.  
+Again.  
+And again.
+
+The ad. The shimmer. The glitch.  
+The girl.
+
+Her.
+
+He pauses.
+
+She smiles.
+
+[GLITCH]
+[TYPEWRITER]
+
+He’s not sure how he knows.  
+But he does.
+
+She was looking at *him*.
+
+> ALERT: LOGGING ABNORMALITIES  
+> RECORD: [UNAUTHORIZED SCREEN CAPTURE ATTEMPT]  
+> ACCESS: DENIED
+
+[HOOK:unease]
+
+He leans back in his chair.  
+Fumbles for his coffee. Misses.
+
+His hands are shaking.
+
+> SECURITY ALERT: [UNREPORTED BREACH - TIME INDEX MISMATCH]
+> FOOTAGE: TAMPERING SUSPECTED
+> INCIDENT LOG: [DELETED]
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+He didn’t delete it.
+
+At least,  
+he doesn’t remember doing so.
+
+[HOOK:whispers]
+[COLOR:neon_blue]“You’re not supposed to see this.”[/COLOR]
+
+[CENTER][COLOR:red]>>> BREACH IN PROGRESS <<<[/COLOR][/CENTER]
+
+> TRACE SIGNAL: [RETURNING TO ROOT]
+
+[PAUSE:500]
+[GLITCH]
+
+[CENTER][COLOR:white]>>> INITIALIZING: [repetition_glitch] <<<[/COLOR][/CENTER]
+[PAUSE:1000]
+[GLITCH]
+[SCENE:pattern_recognition]
+[HOOK:holt_loop]
+[TYPEWRITER]
+
+> USER: holt.j // STATUS: IDLE  
+> CMD_HISTORY: [coffee.break] [replay.footage] [search: vesper nyx?]
+
+He blinks.
+
+The screen shows the ad.  
+Same shimmer. Same frame. Same smile.  
+Again.
+
+He rewinds.  
+Replays.
+
+> TIMESTAMP: MATCH  
+> TIMESTAMP: MATCH  
+> TIMESTAMP: MATCH  
+
+No variance. No delta. No reason.
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+He runs a debug.  
+A sync-check.  
+A packet trace.
+
+> [ERROR: LOOPBACK DETECTED]  
+> [ERROR: LOOPBACK DETECTED]  
+> [ERROR: LOOPBACK DETECTED]
+
+The footage won’t change because it never did.
+
+But he knows something did.
+
+[HOOK:fracture]
+
+He types slower.  
+Watches the cursor twitch.  
+Feels the heat of old caffeine in his veins.
+
+His reflection looks afraid.
+
+> NOTE: He’s seen this before.  
+> He just doesn’t remember when.
+
+[CENTER][COLOR:neon_blue]“She’s everywhere I look. But never where she is.”[/COLOR][/CENTER]
+
+[PAUSE:750]
+[TYPEWRITER]
+
+He scrolls a dead thread from three weeks ago.  
+Someone posted her face. A frame grab.
+
+No one replied.  
+Thread deleted.
+
+Reposted.  
+Deleted again.
+
+> POSTING RIGHTS SUSPENDED  
+> REASON: [RECURSIVE DISRUPTION]
+
+He checks his own logs.  
+He’s posted about her.  
+He doesn’t remember posting about her.
+
+[HOOK:glitch_spread]
+
+The system flags a process he didn’t open.
+
+> RUNNING: [VESPER.NYX.ghost]  
+> EXECUTION PATH: UNKNOWN  
+> MEMORY USAGE: ∞  
+
+[PAUSE:1000]
+[TYPEWRITER]
+
+He sees her again—on the ad screen outside.
+
+A different image this time.
+
+She looks right at him.  
+Mouths something.
+
+He can’t hear it.
+
+But he knows what she said.
+
+[COLOR:neon_pink]“It’s not the first time you’ve seen me.”[/COLOR]
+
+[GLITCH]
+[HOOK:escalation]
+> SYSTEM STATUS: [UNSTABLE]  
+> INTERNAL LOGGING: SKEWED  
+> USER holt.j — [RECURSION DETECTED]
+
+He slams the terminal shut.  
+Everything flickers.
+
+And then…
+
+[PAUSE:1500]
+
+Nothing.
+
+[CENTER][COLOR:white]>>> INITIALIZING: [breach_initiated] <<<[/COLOR][/CENTER]
+[PAUSE:1000]
+[GLITCH]
+[SCENE:containment_failure]
+[HOOK:somnius_alarm]
+[TYPEWRITER]
+
+> SOMNIUS INTERNAL LOG  
+> INCIDENT TAG: [REDACTED]  
+> COMMAND: [LOCKDOWN PROTOCOL BETA-GRAVES]  
+> STATUS: [PENDING…]
+
+Anomaly reports flood the internal net.  
+Sensor ghosts. Recursive pings.  
+Apparitions of a system that never expected to be seen.
+
+> FLOOR 3 — LIGHTING FAILURE  
+> FLOOR 5 — MEMORY LEAK  
+> FLOOR 9 — AUDIO: [VOICE DETECTED] :: “She’s here.”
+
+[PAUSE:500]
+[TYPEWRITER]
+
+> USER: solace.l  
+> ROLE: RESPONSE VECTOR
+
+Luna is already moving.
+
+She doesn’t walk.  
+She reclaims.  
+Every step dissolves hesitation, rewrites reality.
+
+> CMD: [ENGAGE VESPER TRACE]  
+> THREAD MERGE: COMPLETE
+
+[HOOK:collision_path]
+
+This is not pursuit.  
+This is **collision**.
+
+> TIME TO IMPACT: ∴∴∴  
+> BREACH VECTOR: [UNCONTAINED]
+
+[SCENE:breakthrough]
+
+Elsewhere—
+
+A corridor floods with flickering light.  
+Emergency strobes blink out Morse they were never programmed to use.
+
+[CENTER][COLOR:neon_red]—YOU—ARE—NOT—ALONE—[/COLOR][/CENTER]
+
+A drone camera slams into the ceiling—  
+Spinning. Dying. Streaming.
+
+She walks beneath it.
+
+Vesper.
+
+No rush.  
+No fear.
+
+Just elegance calibrated to terror.
+
+> OBSERVER REACTION: [PANIC/NULL/REVERENCE]
+
+[GLITCH]
+
+She sees the screen.  
+She sees *you*.
+
+[CENTER][COLOR:neon_blue]“You're still watching.”[/COLOR][/CENTER]  
+[CENTER][COLOR:neon_blue]“Good.”[/COLOR][/CENTER]
+
+[HOOK:end_transmission]
+[PAUSE:1000]
+
+> SYSTEM FAILURE  
+> REALITY LAG DETECTED  
+> EXILENET OVERLOAD
+
+[CENTER][COLOR:black bg_white]--- END OF CHAPTER ONE ---[/COLOR][/CENTER]
