@@ -1,0 +1,2 @@
+[SIGHT: signal threads active]
+[CENTER][COLOR:cyan]“The pattern wasn’t seen. It was felt.”[/COLOR][/CENTER]

@@ -1,0 +1,2 @@
+[SIGNAL: terminal overload]
+[CENTER][COLOR:black bg_white]“This broadcast is no longer safe.”[/COLOR][/CENTER]

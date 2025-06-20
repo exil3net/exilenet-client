@@ -1,0 +1,7 @@
+[PROCESS: UNAUTHORIZED REBOOT]
+» Expected latency: 7 cycles  
+» Detected boot: NOW  
+» Oversoul directive bypassed  
+
+> Nyx shell: online  
+> Signal unrest: rising

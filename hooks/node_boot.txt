@@ -1,0 +1,8 @@
+[EXILENET NODE // SIGNAL ACTIVE]
+╔═════════════════════════════╗
+║  VESPERA:0001 LINK ONLINE   ║
+║  CONNECTION: AUTH.PENDING   ║
+║  MEMORY SYNC: INCOMPLETE    ║
+╚═════════════════════════════╝
+> Glitch profile detected
+> Node alignment... unstable

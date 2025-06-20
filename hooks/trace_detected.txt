@@ -1,0 +1,8 @@
+[SYSTEM TRACE // INTRUSION DETECTED]
+╔═════════════════════════════════╗
+║  NODE: VESPERA:0001             ║
+║  ANOMALY: ACTIVE TRACE PING     ║
+║  ZONE: SECTOR 12                ║
+╚═════════════════════════════════╝
+> Stealth mode: compromised  
+> Signal echo remains

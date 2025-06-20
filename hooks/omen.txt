@@ -1,0 +1,2 @@
+[PING: event.preconstruct.early]
+[CENTER][COLOR:teal]“She senses it before it's real.”[/COLOR][/CENTER]

@@ -1,0 +1,7 @@
+[TRACE SIGNAL INBOUND]
+╔════════════════════╗
+║  Source: UNMAPPED  ║
+║  Protocol: SHADOW  ║
+╚════════════════════╝
+» Scrambling headers...
+» Masking channel ID...
